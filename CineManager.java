@@ -2,7 +2,7 @@ package controladores;
 
 public class CineManager {
 
-    // Capacidad actual de la sala (Estado global de la clase para este ejemplo)
+    // Capacidad actual de la sala 
     private int asientosDisponibles;
 
     public CineManager(int capacidadInicial) {
